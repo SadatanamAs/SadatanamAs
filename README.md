@@ -1,7 +1,7 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)
+![MasterHead](https://github.com/SadatanamAs/SadatanamAs/blob/media/Sadat%20Anam%20(seven).png)
 
-<h1 align="center">Hi! I'm Sadat Anam 🙂</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi! I'm Sadat Anam</h1>
+<h3 align="center">A passionate CSE Student from Bangladesh</h3>
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="coding" /></p>
 
