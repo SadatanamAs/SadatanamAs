@@ -128,7 +128,6 @@ print(me.current_quest())
 
 ---
 
-
 ### `➜ cat ./trophies.json`
 
 <div align="center">
@@ -224,4 +223,3 @@ print(me.current_quest())
 <sub><sub>~ built with 💜, way too much SVG, and zero JavaScript ~</sub></sub>
 </sub>
 </p>
-
