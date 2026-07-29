@@ -60,52 +60,53 @@ print(me.current_quest())
 ---
 
 <!-- ========== TECH STACK ========== -->
-### `➜ ls ./tech-stack`
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tech Stack
 <table align="center">
 <tr>
 <th align="center">Languages</th>
-<th align="center">Frameworks & Libraries</th>
+<th align="center">Frameworks</th>
 <th align="center">Databases</th>
 </tr>
 <tr>
 <td align="center">
 
-`Python` `SQL` `Bash` `HTML/CSS` `JavaScript`
+`Python` `SQL` `Bash` `HTML/CSS` `JavaScript` `Dart` `TypeScript`
 
 </td>
 <td align="center">
 
-`FastAPI` `Django` `Pydantic` `SQLAlchemy` `BeautifulSoup` `Scrapy` `Requests`
+`FastAPI` `Express` `Next.js` `React` `Flutter` `Tailwind`
 
 </td>
 <td align="center">
 
-`PostgreSQL` `Redis` `SQLite` `MongoDB`
+`PostgreSQL` `Redis` `SQLite` `MongoDB` `Supabase`
 
 </td>
 </tr>
 <tr>
 <th align="center">DevOps & Cloud</th>
 <th align="center">Tools</th>
-<th align="center">Practices</th>
+<th align="center">Libraries</th>
 </tr>
 <tr>
 <td align="center">
 
-`Docker` `Kubernetes` `Terraform` `AWS` `GitHub Actions` `Nginx`
+`Docker` `Kubernetes` `AWS` `GitHub Actions` `Nginx` `DigitalOcean` `Vercel`
 
 </td>
 <td align="center">
 
-`Git` `GitHub` `Linux` `VS Code` `Postman` `pgAdmin`
+`Git` `GitHub` `Linux` `Puku-Editor` `Postman` `pgAdmin`
 
 </td>
 <td align="center">
 
-`REST API design` `Authentication (JWT/OAuth)` `CI/CD` `Agile` `Testing (pytest)`
+`Scrapy` `Requests` `Playwright` `BeautifulSoup` `puppeteer`
+
+
 
 </td>
 </tr>
