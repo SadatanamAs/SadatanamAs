@@ -9,11 +9,13 @@
 ### 🎮 Backend Engineer in Training · Student · Bug Hunter · Curious by default
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadatanamas&color=ff006e&style=for-the-badge&label=VISITORS+%F0%9F%91%80" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/STATUS-Open_to_Work-036fff?style=for-the-badge&logoColor=black&labelColor=1a0e3e" alt="Status"/>
-  <img src="https://img.shields.io/badge/REMOTE-Available-3a86ff?style=for-the-badge&logoColor=white&labelColor=1a0e3e" alt="Remote"/>
-  <img src="https://img.shields.io/badge/RELOCATION-Open-ffbe0b?style=for-the-badge&logoColor=black&labelColor=1a0e3e" alt="Relocation"/>
-  <img src="https://img.shields.io/badge/COLLABORATION-Open_Source-ff006e?style=for-the-badge&logoColor=white&labelColor=1a0e3e" alt="Collaboration"/>
+    <a href="mailto:sadatanam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://linkedin.com/in/sadatanam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://sadatanam.verce.app"><img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://facebook.com/sadatanam.seven"><img src="https://img.shields.io/badge/Facebook-3300ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebok"/></a>
+    <a href="https://discord.gg/as.seven"><img src="https://img.shields.io/badge/Discord-8d6dfe?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://instagram.com/sadatanam.seven"><img src="https://img.shields.io/badge/Instagram-f40086?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://t.me/As_sadat"><img src="https://img.shields.io/badge/Telegram-6d28d9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 </div>
 
@@ -191,13 +193,13 @@ print(me.current_quest())
 ## 📫 Let's Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/sadatanam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sadatanam@duck.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://sadatanam.dev"><img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://facebook.com/sadatanam.917"><img src="https://img.shields.io/badge/Facebook-3300ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebok"/></a>
-<a href="https://discord.gg/as.seven"><img src="https://img.shields.io/badge/Discord-8d6dfe?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://instagram.com/sadatanam.seven"><img src="https://img.shields.io/badge/Instagram-f40086?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://t.me/As_sadat"><img src="https://img.shields.io/badge/Telegram-6d28d9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="mailto:sadatanam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://linkedin.com/in/sadatanam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://sadatanam.verce.app"><img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://facebook.com/sadatanam.seven"><img src="https://img.shields.io/badge/Facebook-3300ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebok"/></a>
+    <a href="https://discord.gg/as.seven"><img src="https://img.shields.io/badge/Discord-8d6dfe?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://instagram.com/sadatanam.seven"><img src="https://img.shields.io/badge/Instagram-f40086?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://t.me/As_sadat"><img src="https://img.shields.io/badge/Telegram-6d28d9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 </div>
 
