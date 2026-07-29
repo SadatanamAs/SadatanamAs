@@ -27,12 +27,12 @@
 
 <!-- ========== ABOUT ME ========== -->
 
-> Backend engineer focused on building **reliable, well-designed services** with **Python**. I care about clean APIs, thoughtful database design, and code that the next developer (or future me) will thank me for.
+> Computer Science student at **BRAC University**, currently building in production as a backend and DevOps engineer. Split between class work and shipping real systems — scrapers, APIs, and the pipelines that keep them running.
 >
-> Currently deepening my work in **distributed systems** and **cloud infrastructure**. I learn best by building — every repo here is a small step in that direction.
+> **Primary focus:** Backend services, Web/Data scraping, and the infrastructure underneath. Comfortable across Python (FastAPI, Scrapy, Playwright), JavaScript/TypeScript (Node, Next.js), and the occasional Dart/Flutter build.
 
 **What I'm looking for**
-- Backend / API engineering roles (full-time, contract, or internship)
+- Backend / API engineering roles / Automatio (Part-time or internship)
 - Open-source collaborations in Python
 - Interesting problems around scale, data, and developer experience
 
