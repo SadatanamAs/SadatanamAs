@@ -4,9 +4,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=06FFA5&center=true&vCenter=true&width=550&lines=%3E%3E+Initializing+neural+link...;%3E%3E+Loading+player+data...;%3E%3E+Class+selected:+Computer+Science;%3E%3E+Quest+status:+Quest+in+progress;%3E%3E+May+the+code+be+with+you" alt="Typing SVG"/>
-
-### 🎮 Backend Engineer in Training · Student · Bug Hunter · Curious by default
+###  Backend & DevOps · Automation Expert · CSE Student
 <br>
 <p align="center">
     <a href="mailto:sadatanam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -22,7 +20,7 @@
 ---
 <div align="center">
   
-# ⚡ S A D A T  A N A M ⚡
+#  SADAT  ANAM 
 </div>
 
 <!-- ========== ABOUT ME ========== -->
@@ -30,6 +28,7 @@
 > Computer Science student at **BRAC University**, currently building in production as a backend and DevOps engineer. Split between class work and shipping real systems — scrapers, APIs, and the pipelines that keep them running.
 >
 > **Primary focus:** Backend services, Web/Data scraping, and the infrastructure underneath. Comfortable across Python (FastAPI, Scrapy, Playwright), JavaScript/TypeScript (Node, Next.js), and the occasional Dart/Flutter build.
+
 
 **What I'm looking for**
 - Backend / API engineering roles / Automatio (Part-time or internship)
@@ -41,25 +40,8 @@
 
 ---
 
-### `➜ whoami`
-```python
-class SadatanamAs:
-    def __init__(self):
-        self.name        = "Sadat Anam"
-        self.located_in  = "Bangladesh"
-        self.focus       = "Backend Engineering"
-        self.currently   = "learning things that make systems fast and reliable"
-        self.philosophy  = "understand it first. optimize it second. ship it third."
-                  
-    def current_quest(self):
-        return "containerize everything → understand why → fix what breaks"
-
-me = SadatanamAs()
-print(me.current_quest())
-```
----
-
 <!-- ========== TECH STACK ========== -->
+
 <div align="center">
 
 ## Tech Stack
@@ -113,13 +95,10 @@ print(me.current_quest())
 </table>
 </div>
 
----
-
-### `➜ ls ./skills`
 
 <div align="center">
 
-## 🛠️ SKILL ARSENAL
+## SKILL 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,html,css,tailwind,bootstrap,dart,flutter,vscode,bash,postgres,vercel,terraform&theme=dark&perline=15" />
@@ -129,37 +108,21 @@ print(me.current_quest())
 </p>
 </div>
 
----
 
-### `➜ cat ./trophies.json`
 
 <div align="center">
-
-## 🏆 BADGES
-
-<!-- RECRUITER NOTE: GitHub achievement trophies — earned based on commit activity,
-     repository stars, pull requests, and contribution streaks. -->
-
-![](https://github-profile-trophy.vercel.app/?username=SadatanamAs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
-### `➜ tail -f ./activity.log`
 
 <!-- RECRUITER NOTE: Auto-generated contribution graph showing commit frequency
      over the past year across all public repositories. -->
 
+## Activity Log
 <p align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadatanamAs&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
 
----
 
-### `➜ htop --user=SadatanamAs`
 
-<div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=SadatanamAs&theme=github_dark&hide_border=false" height="165" />&nbsp;<img src="https://github-readme-stats.shion.dev/api?username=SadatanamAs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="165" />
 
@@ -167,25 +130,6 @@ print(me.current_quest())
 
 </div>
 
----
-
-### `➜ git log --graph --oneline --all --since="1 year ago"`
-
-<p align="center">
-
-> every square is a commit &nbsp;·&nbsp; every gap is a lesson
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/SadatanamAs/SadatanamAs/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadatanamAs/SadatanamAs/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/SadatanamAs/SadatanamAs/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
-
-</p>
-
----
-
-### `➜ curl -I SadatanamAs`
 
 <!-- RECRUITER NOTE: Reach me via any of the channels below. I respond fastest by email. -->
 <div align="center">
@@ -194,9 +138,9 @@ print(me.current_quest())
 ## 📫 Let's Connect
 
 <p align="center">
-    <a href="mailto:sadatanam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://linkedin.com/in/sadatanam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://sadatanam.verce.app"><img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:sadatanam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://sadatanam.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://facebook.com/sadatanam.seven"><img src="https://img.shields.io/badge/Facebook-3300ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebok"/></a>
     <a href="https://discord.gg/as.seven"><img src="https://img.shields.io/badge/Discord-8d6dfe?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
     <a href="https://instagram.com/sadatanam.seven"><img src="https://img.shields.io/badge/Instagram-f40086?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -209,11 +153,6 @@ print(me.current_quest())
 </p>
 
 <div align="center">
-
-```
-// uptime: still running  ·  errors: a few, handled  ·  last deployed: just now
-```
-
 </div>
 
 <p align="center">
@@ -223,8 +162,7 @@ print(me.current_quest())
 <span style="color:#ff006e;">[</span> <span style="color:#ffbe0b;">●</span> <span style="color:#06ffa5;">caffeinated</span> <span style="color:#ff006e;">]</span> ·
 <span style="color:#ff006e;">[</span> <span style="color:#ffbe0b;">●</span> <span style="color:#06ffa5;">still shipping</span> <span style="color:#ff006e;">]</span>
 <br/>
-<sub><sub>~ built with 💜, way too much SVG, and zero JavaScript ~</sub></sub>
-</sub>
 </p>
+
 
 
