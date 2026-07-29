@@ -14,6 +14,8 @@
 
 ---
 
+[Download CV](https://sadatanam.vercel.app/SMSadatAnam_resume.pdf)
+
 Computer Science student at **BRAC University**, specialise in Web Automation and honing as a backend and DevOps engineer. I build APIs, automation tools, and cloud infrastructure with a focus on reliability, scalability, and maintainability.
 
 **Primary focus:** Backend services, Web/Data scraping, and the infrastructure underneath. Comfortable across Python (FastAPI, Scrapy, Playwright), JavaScript/TypeScript (Node, Next.js), and the occasional Dart/Flutter build.
@@ -65,6 +67,7 @@ A resilient, login-aware web scraper built on Scrapy + Playwright that extracts 
 - **LinkedIn**: [sadatanam](https://www.linkedin.com/in/sadatanam/)
 - **Telegram**: [@As_sadat](https://t.me/As_sadat)
 - **Facebook**: [Sadatanam.as](https://www.facebook.com/Sadatanam.seven)
+- **Resume:** [Download CV](https://sadatanam.vercel.app/SMSadatAnam_resume.pdf)
 
 
 ## Activity Log
