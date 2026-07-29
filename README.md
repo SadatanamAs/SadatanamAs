@@ -1,8 +1,7 @@
-![MasterHead](https://github.com/SadatanamAs/SadatanamAs/blob/media/Sadat%20Anam%20(seven).png)
-
-
 <!-- HEADER -->
 <div align="center">
+  
+#  SADAT  ANAM 
 
 ###  Backend & DevOps · Automation Expert · CSE Student
 <br>
@@ -11,17 +10,11 @@
     <a href="https://linkedin.com/in/sadatanam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://sadatanam.verce.app"><img src="https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
     <a href="https://facebook.com/sadatanam.seven"><img src="https://img.shields.io/badge/Facebook-3300ff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebok"/></a>
-    <a href="https://discord.gg/as.seven"><img src="https://img.shields.io/badge/Discord-8d6dfe?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-    <a href="https://instagram.com/sadatanam.seven"><img src="https://img.shields.io/badge/Instagram-f40086?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://t.me/As_sadat"><img src="https://img.shields.io/badge/Telegram-6d28d9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 </div>
 
 ---
-<div align="center">
-  
-#  SADAT  ANAM 
-</div>
 
 <!-- ========== ABOUT ME ========== -->
 
@@ -88,24 +81,9 @@
 
 `Scrapy` `Requests` `Playwright` `BeautifulSoup` `puppeteer`
 
-
-
 </td>
 </tr>
 </table>
-</div>
-
-
-<div align="center">
-
-## SKILL 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,html,css,tailwind,bootstrap,dart,flutter,vscode,bash,postgres,vercel,terraform&theme=dark&perline=15" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,supabase,docker,nginx,linux,git,github,githubactions,aws,cloudflare,prometheus,grafana,selenium,postman,notion&theme=dark&perline=15" />
-</p>
 </div>
 
 
@@ -117,17 +95,12 @@
 
 ## Activity Log
 <p align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadatanamAs&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
-
-
-
 
 <img src="https://streak-stats.demolab.com/?user=SadatanamAs&theme=github_dark&hide_border=false" height="165" />&nbsp;<img src="https://github-readme-stats.shion.dev/api?username=SadatanamAs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="165" />
 
 <br/>
-
 </div>
 
 
