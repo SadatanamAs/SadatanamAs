@@ -28,64 +28,24 @@
 - Open-source collaborations in Python
 - Interesting problems around scale, data, and developer experience
 
-### Interests </br>
-> `Full-stack Web` · `Cross-platform Apps` · `Catch The Flag` · `Cybersecurity` · `Cloud Engineering` · `DevOps Engineering`
-
 ---
 
 <!-- ========== TECH STACK ========== -->
 
-<div align="center">
-
 ## Tech Stack
-<table align="center">
-<tr>
-<th align="center">Languages</th>
-<th align="center">Frameworks</th>
-<th align="center">Databases</th>
-</tr>
-<tr>
-<td align="center">
 
-`Python` `SQL` `Bash` `HTML/CSS` `JavaScript` `Dart` `TypeScript`
-
-</td>
-<td align="center">
-
-`FastAPI` `Express` `Next.js` `React` `Flutter` `Tailwind`
-
-</td>
-<td align="center">
-
-`PostgreSQL` `Redis` `SQLite` `MongoDB` `Supabase`
-
-</td>
-</tr>
-<tr>
-<th align="center">DevOps & Cloud</th>
-<th align="center">Tools</th>
-<th align="center">Libraries</th>
-</tr>
-<tr>
-<td align="center">
-
-`Docker` `Kubernetes` `AWS` `GitHub Actions` `Nginx` `DigitalOcean` `Vercel`
-
-</td>
-<td align="center">
-
-`Git` `GitHub` `Linux` `Puku-Editor` `Postman` `pgAdmin`
-
-</td>
-<td align="center">
-
-`Scrapy` `Requests` `Playwright` `BeautifulSoup` `puppeteer`
-
-</td>
-</tr>
-</table>
-</div>
-
+**Languages:** `Python` `SQL` `Bash` `HTML/CSS` `JavaScript` `Dart` `TypeScript` `Java`
+<br/>
+**Frameworks:** `FastAPI` `Express` `Next.js` `React` `Flutter`
+<br/>
+**Databases:** `PostgreSQL` `Redis` `Supabase`
+<br/>
+**DevOps & Cloud:** `Docker` `GitHub Actions` `Nginx`
+<br/>
+**Tools:** `Git` `Linux`
+<br/>
+**Libraries:** `Scrapy` `Playwright` `BeautifulSoup`
+<br/>
 
 
 <div align="center">
