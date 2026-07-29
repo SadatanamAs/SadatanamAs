@@ -3,7 +3,7 @@
   
 #  SADAT  ANAM 
 
-###  Backend & DevOps · Automation Expert · CSE Student
+###  Backend & DevOps · Web Automation Expert · CSE Student
 <br>
 <p align="center">
     <a href="mailto:sadatanam.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -18,57 +18,48 @@
 
 <!-- ========== ABOUT ME ========== -->
 
-> Computer Science student at **BRAC University**, currently building in production as a backend and DevOps engineer. Split between class work and shipping real systems — scrapers, APIs, and the pipelines that keep them running.
->
-> **Primary focus:** Backend services, Web/Data scraping, and the infrastructure underneath. Comfortable across Python (FastAPI, Scrapy, Playwright), JavaScript/TypeScript (Node, Next.js), and the occasional Dart/Flutter build.
+Computer Science student at **BRAC University**, specialise in Web Automation and honing as a backend and DevOps engineer. I build APIs, automation tools, and cloud infrastructure with a focus on reliability, scalability, and maintainability.
+
+**Primary focus:** Backend services, Web/Data scraping, and the infrastructure underneath. Comfortable across Python (FastAPI, Scrapy, Playwright), JavaScript/TypeScript (Node, Next.js), and the occasional Dart/Flutter build.
 
 
-**What I'm looking for**
-- Backend / API engineering roles / Automatio (Part-time or internship)
-- Open-source collaborations in Python
-- Interesting problems around scale, data, and developer experience
+## What I'm Looking For
+- Backend / API engineering roles (internship, part-time, or junior full-time)
+- DevOps / cloud engineering roles
+- Opportunities to work on real-world data, infrastructure, and automation
 
 ---
 
 <!-- ========== TECH STACK ========== -->
 
-## Tech Stack
+## Core Skills
+<!-- RECRUITER NOTE: The following skills represent the skill I am confident on. -->
 
-**Languages:** `Python` `SQL` `Bash` `HTML/CSS` `JavaScript` `Dart` `TypeScript` `Java`
-<br/>
-**Frameworks:** `FastAPI` `Express` `Next.js` `React` `Flutter`
-<br/>
-**Databases:** `PostgreSQL` `Redis` `Supabase`
-<br/>
-**DevOps & Cloud:** `Docker` `GitHub Actions` `Nginx`
-<br/>
-**Tools:** `Git` `Linux`
-<br/>
-**Libraries:** `Scrapy` `Playwright` `BeautifulSoup`
-<br/>
+- **Languages:** `Python`, `Java`, `SQL`, `Bash`, `HTML/CSS`, `JavaScript`, `Dart`, `TypeScript`
+- **Backend:** `FastAPI`, `Express.js`, `Node.js`
+- **Databases:** `PostgreSQL`, `Redis`, `Supabase`
+- **DevOps & Cloud:** `Docker`, `CI/CD`, `GitHub Actions`, `Nginx`, `AWS`, `Vercel` 
+- **Automation & Scraping:** `Scrapy`, `Playwright`, `BeautifulSoup`, `Puppeteer`, `Request`
 
 
 <div align="center">
 
+## Activity Log
 <!-- RECRUITER NOTE: Auto-generated contribution graph showing commit frequency
      over the past year across all public repositories. -->
-
-## Activity Log
+     
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SadatanamAs&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
-
 <img src="https://streak-stats.demolab.com/?user=SadatanamAs&theme=github_dark&hide_border=false" height="165" />&nbsp;<img src="https://github-readme-stats.shion.dev/api?username=SadatanamAs&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" height="165" />
-
 <br/>
 </div>
 
-
-<!-- RECRUITER NOTE: Reach me via any of the channels below. I respond fastest by email. -->
 <div align="center">
 <!-- ========== CONNECT ========== -->
 
 ## 📫 Let's Connect
+<!-- RECRUITER NOTE: Reach me via any of the channels below. I respond fastest by email. -->
 
 <p align="center">
     <a href="https://linkedin.com/in/sadatanam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
